@@ -1,8 +1,8 @@
 
-  pathBD<-"/Datasets/arabidopsis/"
-  nameBD<-"arabidopsis" #nombre de la BD, debe ser el mismo nombre de la carpeta
-  organismoNAME<-"arabidopsis"  #organismo a usar por la distancia semantica para obtener relaciones entre genes
-  organismoBD<-"org.At.tair.db" #
+  pathBD<-"/Datasets/serum/"
+  nameBD<-"serum" #nombre de la BD, debe ser el mismo nombre de la carpeta
+  organismoNAME<-"serum"  #organismo a usar por la distancia semantica para obtener relaciones entre genes
+  organismoBD<-"org.Hs.eg.db" #
 
   #arabidopsis      arabidopsis   org.At.tair.db
   #cell_cycle       yeast         org.Sc.sgd.db
